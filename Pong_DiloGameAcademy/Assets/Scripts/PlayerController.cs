@@ -73,7 +73,7 @@ public class PlayerController : MonoBehaviour
     }
 
     // Menaikkan skor sebanyak 1 poin
-    public void inicrementScore()
+    public void IncrementScore()
     {
         score++;
     }
